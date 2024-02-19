@@ -55,10 +55,10 @@ plt.show()
 ### Population:
 ![](https://github.com/RanjithD18/TSA_EXP1/blob/main/1.png)
 ### Market Price:
-![](https://github.com/RanjithD18/TSA_EXP1/blob/main/1.png)
-![](https://github.com/RanjithD18/TSA_EXP1/blob/main/1.png)
+![](https://github.com/RanjithD18/TSA_EXP1/blob/main/2.png)
+![](https://github.com/RanjithD18/TSA_EXP1/blob/main/3.png)
 ### Temperature:
-![](https://github.com/RanjithD18/TSA_EXP1/blob/main/1.png)
+![](https://github.com/RanjithD18/TSA_EXP1/blob/main/4.png)
 
 
 
